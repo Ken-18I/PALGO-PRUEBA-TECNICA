@@ -1,0 +1,5 @@
+Ejecutar el comando tanto en la carpeta node y reactfront:
+- npm install
+
+- Ejecutar el comando "nodemonapp" en la  carpeta node
+- Ejecutar el comando "npm run start" en la carpeta reactfront
